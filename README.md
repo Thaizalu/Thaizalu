@@ -1,16 +1,22 @@
-## Hi there 👋
+## 💜 Olá, meu nome é Thaiza!👋
 
-<!--
-**Thaizalu/Thaizalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou em transição de carreira, cursando Tecnologia da Informação e estagiando na área de dados.
 
-Here are some ideas to get you started:
+🔭 Atualmente, estou fazendo o curso de Data Science da Sigmoidal, além dos cursos voltados para dados da Alura e da Awari.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Caso queira trocar ideias ou simplesmente fofocas, entre em contato comigo.
+
+---
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></code>
+<code><img height="32" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></code>
+
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thaizalu&show_icons=true)
